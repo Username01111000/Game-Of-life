@@ -1,4 +1,4 @@
-For simplicity I added the compiled .exe in to the repo so you don't have to worry about compiling it.
+For simplicity I added the compiled .exe into the repo so you don't have to worry about compiling it.
 
 Once you run the .exe you can draw in the cells with LMB and erase with RMB
 Start and pause the simulation with SPACE
